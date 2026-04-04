@@ -1,6 +1,6 @@
 <h1>Researched C4060 IC and read datasheet. Draw schematic.</h1>
 <h3>3/27/26 - 90m </h3>
-I started this project by looking uo teh different IC we could use and found the C4060 one interesting. After looking through the datasheet and understanding the necesary pins, I drew a schematic, using a 2pin header for power, and learnign how to put together an RC oscillator. Instead of only having 1 LED, blinking at a fixed interval, I thought it would be cool to be able to use all the different timings, so I added resistors and 2 pin headers to each Q-Pin. 
+I started this project by looking up the different IC we could use, and found the C4060 one interesting. After looking through the datasheet and understanding the necesary pins, I drew a schematic, using a 2pin header for power, and learnign how to put together an RC oscillator. Instead of only having 1 LED, blinking at a fixed interval, I thought it would be cool to be able to use all the different timings, so I added resistors and 2 pin headers to each Q-Pin. 
 </br>
 <img width="550" alt="Screenshot 2026-03-27 at 4 31 52 PM" src="https://github.com/user-attachments/assets/12ccd699-d857-4ad4-8d05-8173bb6101f2" />
 
