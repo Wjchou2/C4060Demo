@@ -11,3 +11,11 @@ Placed all the components in good places, routed wires, drew labels for GND and 
 <br>
 <img width="400" alt="Screenshot 2026-03-27 at 5 00 10 PM" src="https://github.com/user-attachments/assets/214931fb-f578-44a6-9fb3-2712034b85ab" />
 <img width="400" alt="Screenshot 2026-03-27 at 5 01 33 PM" src="https://github.com/user-attachments/assets/699ff770-d313-49bf-a5e3-209b1b8e9bb3" />
+
+<h1>Fixed Footprint for C4060 IC</h1>
+<h3>4/3/26 - 20m </h3>
+Got feedback from Rudy, fixed the IC to the THT version, rerouted wires and redraw ground plane. 
+<br>
+<img width="500"  alt="Screenshot 2026-04-03 at 7 02 22 PM" src="https://github.com/user-attachments/assets/a0ded8fe-4e7c-436c-b391-ba600ebf71f5" />
+
+<img width="500"  alt="Screenshot 2026-04-03 at 7 01 17 PM" src="https://github.com/user-attachments/assets/3be516e9-073c-46fc-b7f2-b4c8c85133c4" />
