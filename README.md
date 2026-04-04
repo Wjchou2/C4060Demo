@@ -5,5 +5,5 @@ The C4060Demo is a board that allows you to test the speeds that the C4060 IC ge
 <h1>Schematic</h1>
 <img width="500"  alt="Screenshot 2026-04-03 at 5 34 30 PM" src="https://github.com/user-attachments/assets/d2cb9c9a-132f-45e3-a3c3-54edacb22b52" />
 <h1>PCB and 3D Render</h1>
-<img width="500" alt="Screenshot 2026-04-03 at 5 31 29 PM" src="https://github.com/user-attachments/assets/b8a36337-16a6-426b-8ca0-46226d63350c" />
-<img width="500"  alt="Screenshot 2026-04-03 at 5 31 47 PM" src="https://github.com/user-attachments/assets/dfc16784-953a-4fe3-bd1e-4e1ac2714618" />
+<img width="500"  alt="Screenshot 2026-04-03 at 6 59 51 PM" src="https://github.com/user-attachments/assets/45f8da5f-e1a9-4617-ade9-32b87b29eaa4" />
+<img width="500" alt="Screenshot 2026-04-03 at 6 59 58 PM" src="https://github.com/user-attachments/assets/2c4922e7-54d4-42d3-9799-01ce15334c58" />
